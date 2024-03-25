@@ -1,4 +1,5 @@
 # Petrol Production Pie Chart
+![3d-table gif](https://github.com/aliwert/3d-pie-chart-petrol/assets/154356044/b558baab-53ad-4722-9ba8-a6a71be18abf)
 
 This repository contains the code to generate a 3D pie chart representing petrol production in various countries. The chart is created using the AmCharts library.
 
@@ -12,4 +13,6 @@ To use this code, include the necessary AmCharts library files in your HTML file
 This project relies on the following dependencies:
 
 ## AmCharts - A JavaScript library for creating interactive charts.
+
+
 
