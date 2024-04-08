@@ -1,5 +1,5 @@
-//! Themes begin
-//! Use the animated theme for the chart
+//! Initialize Themes
+//! Apply animated theme to the chart
 am4core.useTheme(am4themes_animated);
 
 //! Create a PieChart3D instance and attach it to the HTML element with id "chartdiv"
@@ -38,7 +38,6 @@ chart.data = [
 //? Set inner radius (size of the hole in the middle) of the pie chart in percentage
 chart.innerRadius = am4core.percent(40);
 //! Set the depth (thickness) of the chart in pixels
-
 chart.depth = 120;
 
 //* Add a legend to the chart
