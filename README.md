@@ -1,3 +1,6 @@
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/zbetcheckin/Security_list)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # Petrol Production Pie Chart
 ![3d-table gif](https://github.com/aliwert/3d-pie-chart-petrol/assets/154356044/b558baab-53ad-4722-9ba8-a6a71be18abf)
 
